@@ -1,0 +1,6 @@
+C:\Users\RYZEN\source\repos\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.exe.config
+C:\Users\RYZEN\source\repos\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.exe
+C:\Users\RYZEN\source\repos\Ejercicios\Ejercicio1\bin\Debug\Ejercicio1.pdb
+C:\Users\RYZEN\source\repos\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.exe
+C:\Users\RYZEN\source\repos\Ejercicios\Ejercicio1\obj\Debug\Ejercicio1.pdb
