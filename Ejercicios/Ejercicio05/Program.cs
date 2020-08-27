@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ejercicio4
+namespace Ejercicio05
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Title = "Ejercicio04";
+            Console.Title = "Ejercicio05";
         }
     }
 }

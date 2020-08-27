@@ -12,19 +12,33 @@ namespace Ejercicio3
         {
             Console.Title = "Ejercicio3";
             int i, j;
-            string numeroP;
             int numero;
 
             Console.WriteLine("Inserte un numero: ");
-            numeroP = Console.ReadLine();
-            int.TryParse(numeroP, out numero);
+            int.TryParse(Console.ReadLine(), out numero);
 
-            for (i = 1; i < numero; i ++)
+            if(numero > 1)
             {
-                for (j = 1; j < numero -1; j ++)
+                for (i = 2; i <= numero; i++)
                 {
-                    
+                    bool esPrimo = true;
+                    for (j = 2; j < i; j++)
+                    {
+                        if (i % j == 0)
+                        {
+                            esPrimo = false;
+                            break;
+                        }
+                    }
+                    if (esPrimo)
+                    {
+                        Console.WriteLine("{0} es primo", i);
+                    }
                 }
+            }
+            else
+            {
+                Console.WriteLine("No hay numeros primos");
             }
             Console.ReadKey();
         }
