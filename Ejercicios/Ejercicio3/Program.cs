@@ -11,7 +11,7 @@ namespace Ejercicio3
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio3";
-            int i;
+            int i, j;
             string numeroP;
             int numero;
 
@@ -19,11 +19,11 @@ namespace Ejercicio3
             numeroP = Console.ReadLine();
             int.TryParse(numeroP, out numero);
 
-            for(i = 1; i <= numero; i ++)
+            for (i = 1; i < numero; i ++)
             {
-                if(numero%i == 0)
+                for (j = 1; j < numero -1; j ++)
                 {
-                    Console.WriteLine(i);
+                    
                 }
             }
             Console.ReadKey();
