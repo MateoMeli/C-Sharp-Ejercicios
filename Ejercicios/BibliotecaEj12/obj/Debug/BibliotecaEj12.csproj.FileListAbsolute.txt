@@ -1,0 +1,5 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj12\bin\Debug\BibliotecaEj12.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj12\bin\Debug\BibliotecaEj12.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj12\obj\Debug\BibliotecaEj12.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj12\obj\Debug\BibliotecaEj12.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj12\obj\Debug\BibliotecaEj12.pdb

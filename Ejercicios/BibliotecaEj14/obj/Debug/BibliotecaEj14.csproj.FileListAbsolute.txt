@@ -1,0 +1,6 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj14\bin\Debug\BibliotecaEj14.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj14\bin\Debug\BibliotecaEj14.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj14\obj\Debug\BibliotecaEj14.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj14\obj\Debug\BibliotecaEj14.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj14\obj\Debug\BibliotecaEj14.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\BibliotecaEj14\obj\Debug\BibliotecaEj14.pdb

@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\bin\Debug\Ejercicio11.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\bin\Debug\Ejercicio11.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\bin\Debug\Ejercicio11.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\bin\Debug\BibliotecaEj11.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\bin\Debug\BibliotecaEj11.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\obj\Debug\Ejercicio11.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\obj\Debug\Ejercicio11.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio11\obj\Debug\Ejercicio11.pdb
