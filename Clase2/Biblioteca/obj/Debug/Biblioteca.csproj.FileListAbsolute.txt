@@ -1,0 +1,6 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Biblioteca\obj\Debug\Biblioteca.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Biblioteca\obj\Debug\Biblioteca.pdb

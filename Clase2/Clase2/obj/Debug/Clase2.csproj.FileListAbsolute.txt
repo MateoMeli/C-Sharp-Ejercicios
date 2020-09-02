@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\bin\Debug\Clase2.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\bin\Debug\Clase2.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\bin\Debug\Clase2.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\bin\Debug\Biblioteca.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\bin\Debug\Biblioteca.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\obj\Debug\Clase2.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\obj\Debug\Clase2.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\obj\Debug\Clase2.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\obj\Debug\Clase2.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2\Clase2\obj\Debug\Clase2.pdb
