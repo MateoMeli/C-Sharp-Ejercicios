@@ -1,0 +1,6 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\BibliotecaMascota\bin\Debug\BibliotecaMascota.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\BibliotecaMascota\bin\Debug\BibliotecaMascota.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\BibliotecaMascota\obj\Debug\BibliotecaMascota.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\BibliotecaMascota\obj\Debug\BibliotecaMascota.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\BibliotecaMascota\obj\Debug\BibliotecaMascota.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\BibliotecaMascota\obj\Debug\BibliotecaMascota.pdb

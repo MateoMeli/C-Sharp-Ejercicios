@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\bin\Debug\Clase2Mascotas.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\bin\Debug\Clase2Mascotas.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\bin\Debug\Clase2Mascotas.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\bin\Debug\BibliotecaMascota.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\bin\Debug\BibliotecaMascota.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\obj\Debug\Clase2Mascotas.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\obj\Debug\Clase2Mascotas.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\obj\Debug\Clase2Mascotas.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\obj\Debug\Clase2Mascotas.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase2Mascotas\Clase2Mascotas\obj\Debug\Clase2Mascotas.pdb

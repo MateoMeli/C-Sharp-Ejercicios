@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clase2Mascotas", "Clase2Mascotas\Clase2Mascotas.csproj", "{667EC9F9-4544-4F3D-A14E-6E6847173D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BibliotecaMascota", "BibliotecaMascota\BibliotecaMascota.csproj", "{4B55F0D2-47AD-408C-B30A-82D2E0C48557}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{667EC9F9-4544-4F3D-A14E-6E6847173D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667EC9F9-4544-4F3D-A14E-6E6847173D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667EC9F9-4544-4F3D-A14E-6E6847173D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667EC9F9-4544-4F3D-A14E-6E6847173D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B55F0D2-47AD-408C-B30A-82D2E0C48557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B55F0D2-47AD-408C-B30A-82D2E0C48557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B55F0D2-47AD-408C-B30A-82D2E0C48557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B55F0D2-47AD-408C-B30A-82D2E0C48557}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B018B4EA-D71F-4EE2-A5BB-7860F67CB04A}
+	EndGlobalSection
+EndGlobal
