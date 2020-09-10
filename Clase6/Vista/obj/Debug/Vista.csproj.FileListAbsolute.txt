@@ -1,0 +1,11 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\bin\Debug\Vista.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\bin\Debug\Vista.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\bin\Debug\Vista.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.Properties.Resources.resources
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.csproj.GenerateResource.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.PrincipalForm.resources
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase6\Vista\obj\Debug\Vista.MensajeForm.resources
