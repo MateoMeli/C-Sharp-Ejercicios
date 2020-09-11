@@ -11,6 +11,10 @@ namespace Ejercicio05
         static void Main(string[] args)
         {
             Console.Title = "Ejercicio05";
+
+
+
+            Console.ReadKey();
         }
     }
 }

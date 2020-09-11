@@ -1,0 +1,7 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio05\bin\Debug\Ejercicio05.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio05\bin\Debug\Ejercicio05.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio05\bin\Debug\Ejercicio05.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio05\obj\Debug\Ejercicio05.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio05\obj\Debug\Ejercicio05.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio05\obj\Debug\Ejercicio05.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicios\Ejercicio05\obj\Debug\Ejercicio05.pdb
