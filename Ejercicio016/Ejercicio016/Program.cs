@@ -12,12 +12,23 @@ namespace Ejercicio016
     {
         static void Main(string[] args)
         {
-            Alumne mateo = new Alumne("Mateo", "Meli", 1000);
-            Alumne tomi = new Alumne("Tomas", "Rotta", 1001);
-            Alumne chaka = new Alumne("Juancho", "Aguirre", 1002);
+            Alumne mateo = new Alumne("Mateo", "Meli", 1);
+            Alumne tomi = new Alumne("Tomas", "Rotta", 2);
+            Alumne chaka = new Alumne("Juancho", "Aguirre", 3);
 
+            mateo.Estudiar(1, 1);
+            tomi.Estudiar(7, 4);
+            chaka.Estudiar(4, 3);
 
+            mateo.CalcularFinal();
+            tomi.CalcularFinal();
+            chaka.CalcularFinal();
 
+            Console.WriteLine(mateo.Mostrar());
+            Console.WriteLine(tomi.Mostrar());
+            Console.WriteLine(chaka.Mostrar());
+
+            Console.ReadKey();
         }
     }
 }
