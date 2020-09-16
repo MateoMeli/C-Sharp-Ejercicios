@@ -1,0 +1,7 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Colecciones\Clase 7\bin\Debug\Clase 7.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Colecciones\Clase 7\bin\Debug\Clase 7.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Colecciones\Clase 7\bin\Debug\Clase 7.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Colecciones\Clase 7\obj\Debug\Clase 7.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Colecciones\Clase 7\obj\Debug\Clase 7.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Colecciones\Clase 7\obj\Debug\Clase 7.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Colecciones\Clase 7\obj\Debug\Clase 7.pdb
