@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\bin\Debug\Ejercicio29.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\bin\Debug\Entidades.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\bin\Debug\Entidades.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Ejercicio29\obj\Debug\Ejercicio29.pdb

@@ -1,0 +1,6 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Entidades\bin\Debug\Entidades.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Entidades\bin\Debug\Entidades.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Entidades\obj\Debug\Entidades.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio29\Entidades\obj\Debug\Entidades.pdb
