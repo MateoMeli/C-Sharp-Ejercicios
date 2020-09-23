@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\bin\Debug\Consola.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\bin\Debug\Consola.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\bin\Debug\Consola.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\bin\Debug\Biblioteca.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\bin\Debug\Biblioteca.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\obj\Debug\Consola.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\obj\Debug\Consola.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Clase_09\Ejemplo_Mascotas\Consola\obj\Debug\Consola.pdb
