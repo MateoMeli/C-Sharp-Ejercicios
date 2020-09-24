@@ -9,8 +9,8 @@ namespace CentralitaHerencia
     public class Centralita
     {
         private List<Llamada> listaDeLlamadas;
-        private string razonSocial;
+        protected string razonSocial;
 
-
+        
     }
 }

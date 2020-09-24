@@ -11,7 +11,7 @@ namespace CentralitaHerencia
         protected float duracion;
         protected string nroDestino;
         protected string nroOrigen;
-        public enum tipoLlamada {Local, Provincial, Todas}
+        public enum TipoLlamada {Local, Provincial, Todas}
 
         public float Duracion
         {
@@ -37,7 +37,9 @@ namespace CentralitaHerencia
 
         public Llamada(float duracion, string nroDestino, string nroOrigen)
         {
-
+            this.duracion = duracion;
+            this.nroDestino = nroDestino;
+            this.nroOrigen = nroOrigen;
         }
 
         public string Mostrar()
