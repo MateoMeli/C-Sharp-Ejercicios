@@ -8,3 +8,13 @@ C:\Users\RYZEN\source\repos\Polimorfismo\TestConsola\obj\Debug\TestConsola.cspro
 C:\Users\RYZEN\source\repos\Polimorfismo\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
 C:\Users\RYZEN\source\repos\Polimorfismo\TestConsola\obj\Debug\TestConsola.exe
 C:\Users\RYZEN\source\repos\Polimorfismo\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\bin\Debug\Entidades.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\bin\Debug\Entidades.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\obj\Debug\TestConsola.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\obj\Debug\TestConsola.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\obj\Debug\TestConsola.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Polimorfismo\TestConsola\obj\Debug\TestConsola.pdb
