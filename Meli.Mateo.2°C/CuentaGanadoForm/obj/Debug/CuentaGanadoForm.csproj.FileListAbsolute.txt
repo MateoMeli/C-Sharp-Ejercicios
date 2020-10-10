@@ -1,0 +1,14 @@
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe.config
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.exe
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\bin\Debug\CuentaGanadoForm.pdb
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\bin\Debug\Entidades.dll
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\bin\Debug\Entidades.pdb
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csprojAssemblyReference.cache
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Form1.resources
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Form2.resources
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Properties.Resources.resources
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.GenerateResource.cache
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.csproj.CopyComplete
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.exe
+C:\Users\RYZEN\source\repos\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.pdb

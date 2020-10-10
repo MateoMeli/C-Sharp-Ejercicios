@@ -1,0 +1,10 @@
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\bin\Debug\VistaConsola.exe.config
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\bin\Debug\VistaConsola.exe
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\bin\Debug\VistaConsola.pdb
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\bin\Debug\Entidades.dll
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\bin\Debug\Entidades.pdb
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\obj\Debug\VistaConsola.csprojAssemblyReference.cache
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\obj\Debug\VistaConsola.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\obj\Debug\VistaConsola.csproj.CopyComplete
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\obj\Debug\VistaConsola.exe
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\VistaConsola\obj\Debug\VistaConsola.pdb

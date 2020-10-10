@@ -1,0 +1,6 @@
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\Entidades\bin\Debug\Entidades.dll
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\Entidades\bin\Debug\Entidades.pdb
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\Entidades\obj\Debug\Entidades.dll
+C:\Users\RYZEN\source\repos\Meli.Mateo.Equipos\Entidades\obj\Debug\Entidades.pdb
