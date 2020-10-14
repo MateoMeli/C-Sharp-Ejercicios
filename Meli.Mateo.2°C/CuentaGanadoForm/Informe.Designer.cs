@@ -1,6 +1,6 @@
-﻿namespace CuentaGanadoForm
+﻿namespace VistaForm
 {
-    partial class Form2
+    partial class Informe
     {
         /// <summary>
         /// Required designer variable.

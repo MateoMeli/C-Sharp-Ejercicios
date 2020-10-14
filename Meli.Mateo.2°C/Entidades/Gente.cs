@@ -9,21 +9,28 @@ namespace Entidades
     public class Gente : Persona
     {
         public Gente(short edad)
-            :base("Perro", edad)
+            :base(null, edad)
+        {
+        }
+        public Gente(string nombre, short edad)
+            :base(nombre, edad)
         {
         }
 
-        protected new virtual string Mostrar()
+        public override string ToString()
         {
+            return this.Mostrar();
+        }
+
+        protected override string Mostrar()
+        {
+            StringBuilder mensaje = new StringBuilder();
             if (this.Validar())
             {
-                StringBuilder mensaje = new StringBuilder();
                 mensaje.AppendLine("GENTE");
                 mensaje.AppendLine(base.Mostrar());
-                return mensaje.ToString();
             }
-            else
-                return null;
+            return mensaje.ToString();
         }
 
         public override bool Validar()

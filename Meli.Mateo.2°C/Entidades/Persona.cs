@@ -47,12 +47,11 @@ namespace Entidades
             if (p.Edad >= 0 && !(p.Nombre is null))
             {
                 mensaje.AppendLine($"Nombre: {p.Nombre} Edad: {p.Edad}");
-                return mensaje.ToString();
-            }
-            else
+            }else if(p.Edad >= 0)
             {
-                return null;
+                mensaje.AppendLine($"Edad: {p.Edad}");
             }
+            return mensaje.ToString();
         }
 
         public abstract bool Validar();

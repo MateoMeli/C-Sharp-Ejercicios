@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30523.141
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuentaGanadoForm", "CuentaGanadoForm\CuentaGanadoForm.csproj", "{F78BFC9A-CF33-4AA6-BDEA-277F6B8A0667}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaForm", "CuentaGanadoForm\VistaForm.csproj", "{F78BFC9A-CF33-4AA6-BDEA-277F6B8A0667}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{875E6F5D-3D0A-4EEF-BE93-9C3A02A5FDAB}"
 EndProject

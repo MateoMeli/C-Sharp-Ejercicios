@@ -11,7 +11,7 @@ namespace Entidades
     {
         private List<Empleado> empleados;
         private List<Gente> gente;
-        private Bar singleton;
+        private static Bar singleton;
 
         public List<Empleado> Empleados
         {
@@ -33,7 +33,7 @@ namespace Entidades
             this.empleados = new List<Empleado>();
             this.gente = new List<Gente>();
         }
-        public Bar GetBar()
+        public static Bar GetBar()
         {
             if (singleton == null)
             {
@@ -42,32 +42,57 @@ namespace Entidades
             return singleton;
         }
 
-        public static Bar operator +(Bar bar, Empleado empleado)
+        public static bool operator +(Bar bar, Empleado empleado)
         {
-            int repitio = 0;
+            int repetido = 0;
             foreach(Empleado e in bar.Empleados)
             {
                 if(empleado == e)
                 {
-                    repitio = 1;
+                    repetido = 1;
                 }
             }
-            if(repitio == 0)
+            if(repetido == 0)
             {
                 bar.Empleados.Add(empleado);
+                return true;
             }
-            return bar;
+            return false;
+        }
+        public static bool operator -(Bar bar, Empleado empleado)
+        {
+            foreach(Empleado e in bar.Empleados)
+            {
+                if(e == empleado)
+                {
+                    bar.Empleados.Remove(empleado);
+                    return true;
+                }
+            }
+            return false;
+        }
+        public static bool operator -(Bar bar, Gente gente)
+        {
+            foreach (Gente e in bar.Gente)
+            {
+                if (e == gente)
+                {
+                    bar.Gente.Remove(gente);
+                    return true;
+                }
+            }
+            return false;
         }
 
-        public static Bar operator +(Bar bar, Gente gente)
+        public static bool operator +(Bar bar, Gente gente)
         {
-            if (bar.Gente.Count / 10 > bar.Empleados.Count)
+            if (bar.Gente.Count / 10 < bar.Empleados.Count)
             {
                 bar.Gente.Add(gente);
-                return bar;
+                return true;
             }
             else
-                return bar;
+                return false;
         }
 
         public static explicit operator string(Bar bar)
@@ -76,16 +101,16 @@ namespace Entidades
             if (!(bar is null))
             {
                 mensaje.AppendLine("BAR");
-                foreach(Persona e in bar.Empleados)
+                foreach(Empleado e in bar.Empleados)
                 {
-                    mensaje.AppendLine((string)e);
+                    mensaje.AppendLine(e.ToString());
                 }
-                return mensaje.ToString();
+                foreach(Gente g in bar.Gente)
+                {
+                    mensaje.AppendLine(g.ToString());
+                }
             }
-            else
-            {
-                return null;
-            }
+            return mensaje.ToString();
         }
     }
 }

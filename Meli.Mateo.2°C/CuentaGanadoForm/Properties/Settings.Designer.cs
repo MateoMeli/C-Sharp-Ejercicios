@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CuentaGanadoForm.Properties
+namespace VistaForm.Properties
 {
 
 

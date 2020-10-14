@@ -47,17 +47,20 @@ namespace Entidades
                 return false;
         }
 
-        protected new virtual string Mostrar()
+        protected override string Mostrar()
         {
+            StringBuilder mensaje = new StringBuilder();
             if (this.Validar())
             {
-                StringBuilder mensaje = new StringBuilder();
                 mensaje.AppendLine("EMPLEADO");
                 mensaje.AppendLine(base.Mostrar());
-                return mensaje.ToString();
             }
-            else
-                return null;
+            return mensaje.ToString();
+        }
+
+        public override string ToString()
+        {
+            return this.Mostrar();
         }
 
     }

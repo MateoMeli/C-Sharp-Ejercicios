@@ -1,6 +1,6 @@
-﻿namespace CuentaGanadoForm
+﻿namespace VistaForm
 {
-    partial class Form1
+    partial class CuentaGanado
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -30,11 +30,11 @@
         {
             this.labelEmpleados = new System.Windows.Forms.Label();
             this.labelGente = new System.Windows.Forms.Label();
-            this.numericUpDownEmpleados = new System.Windows.Forms.NumericUpDown();
-            this.numericUpDownGente = new System.Windows.Forms.NumericUpDown();
+            this.nudEmpleados = new System.Windows.Forms.NumericUpDown();
+            this.nudGente = new System.Windows.Forms.NumericUpDown();
             this.buttonInformar = new System.Windows.Forms.Button();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownEmpleados)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownGente)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudEmpleados)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudGente)).BeginInit();
             this.SuspendLayout();
             // 
             // labelEmpleados
@@ -57,23 +57,25 @@
             this.labelGente.TabIndex = 1;
             this.labelGente.Text = "Gente";
             // 
-            // numericUpDownEmpleados
+            // nudEmpleados
             // 
-            this.numericUpDownEmpleados.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDownEmpleados.Location = new System.Drawing.Point(566, 53);
-            this.numericUpDownEmpleados.Name = "numericUpDownEmpleados";
-            this.numericUpDownEmpleados.Size = new System.Drawing.Size(190, 83);
-            this.numericUpDownEmpleados.TabIndex = 2;
-            this.numericUpDownEmpleados.ValueChanged += new System.EventHandler(this.numericUpDownEmpleados_ValueChanged);
+            this.nudEmpleados.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nudEmpleados.Location = new System.Drawing.Point(566, 53);
+            this.nudEmpleados.Name = "nudEmpleados";
+            this.nudEmpleados.ReadOnly = true;
+            this.nudEmpleados.Size = new System.Drawing.Size(190, 83);
+            this.nudEmpleados.TabIndex = 2;
+            this.nudEmpleados.ValueChanged += new System.EventHandler(this.NudEpleados_ValueChanged);
             // 
-            // numericUpDownGente
+            // nudGente
             // 
-            this.numericUpDownGente.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.numericUpDownGente.Location = new System.Drawing.Point(566, 198);
-            this.numericUpDownGente.Name = "numericUpDownGente";
-            this.numericUpDownGente.Size = new System.Drawing.Size(190, 83);
-            this.numericUpDownGente.TabIndex = 3;
-            this.numericUpDownGente.ValueChanged += new System.EventHandler(this.numericUpDownGente_ValueChanged);
+            this.nudGente.Font = new System.Drawing.Font("Microsoft Sans Serif", 50F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.nudGente.Location = new System.Drawing.Point(566, 198);
+            this.nudGente.Name = "nudGente";
+            this.nudGente.ReadOnly = true;
+            this.nudGente.Size = new System.Drawing.Size(190, 83);
+            this.nudGente.TabIndex = 3;
+            this.nudGente.ValueChanged += new System.EventHandler(this.NudGente_ValueChanged);
             // 
             // buttonInformar
             // 
@@ -84,24 +86,24 @@
             this.buttonInformar.TabIndex = 4;
             this.buttonInformar.Text = "Informe";
             this.buttonInformar.UseVisualStyleBackColor = true;
-            this.buttonInformar.Click += new System.EventHandler(this.buttonInformar_Click);
+            this.buttonInformar.Click += new System.EventHandler(this.ButtonInformar_Click);
             // 
-            // Form1
+            // CuentaGanado
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.buttonInformar);
-            this.Controls.Add(this.numericUpDownGente);
-            this.Controls.Add(this.numericUpDownEmpleados);
+            this.Controls.Add(this.nudGente);
+            this.Controls.Add(this.nudEmpleados);
             this.Controls.Add(this.labelGente);
             this.Controls.Add(this.labelEmpleados);
-            this.Name = "Form1";
+            this.Name = "CuentaGanado";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Contador de Mateo Meli";
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownEmpleados)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.numericUpDownGente)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudEmpleados)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nudGente)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -111,8 +113,8 @@
 
         private System.Windows.Forms.Label labelEmpleados;
         private System.Windows.Forms.Label labelGente;
-        private System.Windows.Forms.NumericUpDown numericUpDownEmpleados;
-        private System.Windows.Forms.NumericUpDown numericUpDownGente;
+        private System.Windows.Forms.NumericUpDown nudEmpleados;
+        private System.Windows.Forms.NumericUpDown nudGente;
         private System.Windows.Forms.Button buttonInformar;
     }
 }
