@@ -21,6 +21,7 @@ namespace Entidades
         {
             this.dni = dni;
         }
+        
         /// <summary>
         /// Funcion que valida la edad y el nombre de un empleado
         /// </summary>
@@ -52,7 +53,6 @@ namespace Entidades
             StringBuilder mensaje = new StringBuilder();
             if (this.Validar())
             {
-                mensaje.AppendLine("EMPLEADO");
                 mensaje.AppendLine(base.Mostrar());
             }
             return mensaje.ToString();

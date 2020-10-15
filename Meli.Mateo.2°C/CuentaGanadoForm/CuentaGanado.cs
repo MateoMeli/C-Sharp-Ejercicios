@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using CuentaGanadoForm;
 using Entidades;
 
 namespace VistaForm
@@ -16,6 +16,7 @@ namespace VistaForm
     {
         private Bar bar;
         private Informe informe;
+        private Datos datos;
         public CuentaGanado()
         {
             InitializeComponent();
@@ -27,27 +28,36 @@ namespace VistaForm
             informe = new Informe();
             informe.rtbSalidaDeTest.Text = (string)this.bar;
             informe.ShowDialog();
-            
-            
         }
 
-        private void NudEpleados_ValueChanged(object sender, EventArgs e)
+        private void NudEmpleados_ValueChanged(object sender, EventArgs e)
         {
-            Empleado a = new Empleado("Pedro", 30);
-            Empleado c = new Empleado("Raul", 25);
-            if(bar + a && bar + c)
+            int empleadosActuales = (int)nudEmpleados.Value;
+            if(bar.Empleados.Count < empleadosActuales)
             {
-               
+                datos = new Datos(bar, typeof(Empleado));
+                datos.ShowDialog();
+                nudEmpleados.Value = bar.Empleados.Count;
+            }else if(bar.Empleados.Count > empleadosActuales)
+            {
+                bar.Empleados.RemoveAt(bar.Empleados.Count);
             }
+
             
             
         }
 
         private void NudGente_ValueChanged(object sender, EventArgs e)
         {
-            Gente a = new Gente("Lucas", 32);
-            if(bar + a)
+            int genteActual = (int)nudGente.Value;
+            if(bar.Gente.Count < genteActual)
             {
+                datos = new Datos(bar, typeof(Gente));
+                datos.ShowDialog();
+                nudGente.Value = bar.Gente.Count;
+            }else if(bar.Gente.Count > genteActual)
+            {
+                bar.Gente.RemoveAt(bar.Gente.Count);
             }
             
             

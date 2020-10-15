@@ -27,7 +27,6 @@ namespace Entidades
             StringBuilder mensaje = new StringBuilder();
             if (this.Validar())
             {
-                mensaje.AppendLine("GENTE");
                 mensaje.AppendLine(base.Mostrar());
             }
             return mensaje.ToString();

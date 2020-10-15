@@ -12,3 +12,4 @@ C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\CuentaGanadoForm\obj\D
 C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\VistaForm.csproj.CopyComplete
 C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.exe
 C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\CuentaGanadoForm\obj\Debug\CuentaGanadoForm.Datos.resources

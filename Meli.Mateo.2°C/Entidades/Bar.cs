@@ -54,8 +54,11 @@ namespace Entidades
             }
             if(repetido == 0)
             {
-                bar.Empleados.Add(empleado);
-                return true;
+                if (empleado.Validar())
+                {
+                    bar.Empleados.Add(empleado);
+                    return true;
+                }
             }
             return false;
         }
@@ -88,10 +91,12 @@ namespace Entidades
         {
             if (bar.Gente.Count / 10 < bar.Empleados.Count)
             {
-                bar.Gente.Add(gente);
-                return true;
+                if (gente.Validar())
+                {
+                    bar.Gente.Add(gente);
+                    return true;
+                }
             }
-            else
                 return false;
         }
 
@@ -101,11 +106,13 @@ namespace Entidades
             if (!(bar is null))
             {
                 mensaje.AppendLine("BAR");
+                mensaje.AppendLine("Empleados");
                 foreach(Empleado e in bar.Empleados)
                 {
                     mensaje.AppendLine(e.ToString());
                 }
-                foreach(Gente g in bar.Gente)
+                mensaje.AppendLine("Gente");
+                foreach (Gente g in bar.Gente)
                 {
                     mensaje.AppendLine(g.ToString());
                 }

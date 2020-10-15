@@ -52,6 +52,12 @@
     <Compile Include="CuentaGanado.Designer.cs">
       <DependentUpon>CuentaGanado.cs</DependentUpon>
     </Compile>
+    <Compile Include="Datos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Datos.Designer.cs">
+      <DependentUpon>Datos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Informe.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -62,6 +68,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CuentaGanado.resx">
       <DependentUpon>CuentaGanado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Datos.resx">
+      <DependentUpon>Datos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Informe.resx">
       <DependentUpon>Informe.cs</DependentUpon>

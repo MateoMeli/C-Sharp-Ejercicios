@@ -65,7 +65,7 @@
             this.nudEmpleados.ReadOnly = true;
             this.nudEmpleados.Size = new System.Drawing.Size(190, 83);
             this.nudEmpleados.TabIndex = 2;
-            this.nudEmpleados.ValueChanged += new System.EventHandler(this.NudEpleados_ValueChanged);
+            this.nudEmpleados.ValueChanged += new System.EventHandler(this.NudEmpleados_ValueChanged);
             // 
             // nudGente
             // 
