@@ -12,10 +12,16 @@ namespace CentralitaHerencia
 
         public enum Franja {Franja_01, Franja_02, Franja_03}
 
-        public Provincial(string origen, float duracion, string destino) 
+        public Provincial(Llamada llamada, Franja miFranja) 
+            :base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
+        {
+            this.franjaHoraria = miFranja;
+        }
+
+        public Provincial(string origen, Franja miFranja, float duracion, string destino) 
             : base(duracion, destino, origen)
         {
-            
+            this.franjaHoraria = miFranja;
         }
 
         public float CostoLlamada
@@ -26,9 +32,18 @@ namespace CentralitaHerencia
             }
         }
 
-        public float CalcularCosto()
+        private float CalcularCosto()
         {
-            return 1;
+            switch (this.franjaHoraria)
+            {
+                case Franja.Franja_01:
+                    return (0.99f * this.Duracion);
+                case Franja.Franja_02:
+                    return (1.25f * this.Duracion);
+                case Franja.Franja_03:
+                    return (0.66f * this.Duracion);
+            }
+            return 0f;
         }
     }
 }

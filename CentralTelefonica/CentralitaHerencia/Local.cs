@@ -8,7 +8,7 @@ namespace CentralitaHerencia
 {
     public class Local : Llamada
     {
-        private float costo;
+        protected float costo;
 
         public float CostoLlamada
         {
@@ -21,16 +21,16 @@ namespace CentralitaHerencia
         public Local(Llamada llamada, float costo) 
             : base(llamada.Duracion, llamada.NroDestino, llamada.NroOrigen)
         {
-            this.costo = CostoLlamada;
+            this.costo = costo;
         }
 
         public Local(string origen, float duracion, string destino, float costo) 
             :base(duracion, destino, origen)
         {
-            this.costo = CostoLlamada;
+            this.costo = costo;
         }
 
-        public string Mostrar()
+        public override string Mostrar()
         {
             StringBuilder mensaje = new StringBuilder();
             mensaje.AppendLine(base.Mostrar());

@@ -42,7 +42,7 @@ namespace CentralitaHerencia
             this.nroOrigen = nroOrigen;
         }
 
-        public string Mostrar()
+        public virtual string Mostrar()
         {
             StringBuilder mensaje = new StringBuilder();
             mensaje.Append($"La llamada duro {this.Duracion} y fue de {this.NroDestino} a {this.NroOrigen}.");
