@@ -59,36 +59,35 @@ namespace CentralitaHerencia
         private float CalcularGanancia(Llamada.TipoLlamada tipoLlamada)
         {
             float total = 0;
+            float totalP = 0;
+            float totalL = 0;
+
+            foreach(Llamada l in this.Llamadas)
+            {
+                if (l is Local p)
+                {
+                    totalL += p.CostoLlamada;
+                }
+            }
+            foreach(Llamada l in this.Llamadas)
+            {
+                if (l is Provincial p)
+                {
+                    totalP += p.CostoLlamada;
+                }
+            }
 
             switch (tipoLlamada)
             {
                 case Llamada.TipoLlamada.Local:
-                    foreach(Llamada l in this.Llamadas)
-                    {
-                        Local p = (Local)l;
-                        total += p.CostoLlamada;
-                    }
+                    total = totalL;
                     break;
                 case Llamada.TipoLlamada.Provincial:
-                    foreach (Llamada l in this.Llamadas)
-                    {
-                        Provincial p = (Provincial)l;
-                        total += p.CostoLlamada;
-                    }
+                    total = totalP;
                     break;
                 case Llamada.TipoLlamada.Todas:
-                    foreach (Llamada l in this.Llamadas)
-                    {
-                        Local p = (Local)l;
-                        total += p.CostoLlamada;
-                    }
-                    foreach (Llamada l in this.Llamadas)
-                    {
-                        Provincial p = (Provincial)l;
-                        total += p.CostoLlamada;
-                    }
+                    total = totalL + totalP;
                     break;
-
             }
             return total;
         }
@@ -109,7 +108,10 @@ namespace CentralitaHerencia
         
         public void OrdenarLlamadas()
         {
-            this.Llamadas.Sort(Llamada.OrdenarPorDuracion);
+            foreach(Llamada l in this.Llamadas)
+            {
+                this.Llamadas.Sort(Llamada.OrdenarPorDuracion);
+            }
         }
     }
 }

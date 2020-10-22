@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CentralitaHerencia
 {
-    public class Llamada
+    public abstract class Llamada
     {
         protected float duracion;
         protected string nroDestino;
@@ -35,6 +35,8 @@ namespace CentralitaHerencia
             }
         }
 
+        public abstract float CostoLlamada { get; }
+
         public Llamada(float duracion, string nroDestino, string nroOrigen)
         {
             this.duracion = duracion;
@@ -51,7 +53,7 @@ namespace CentralitaHerencia
 
         public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
         {
-            if(llamada1.duracion > llamada2.duracion)
+            if(llamada1.Duracion > llamada2.Duracion)
             {
                 return 1;
             }
@@ -59,6 +61,11 @@ namespace CentralitaHerencia
             {
                 return 0;
             }
+        }
+
+        public static bool operator == (Llamada l1, Llamada l2)
+        {
+            
         }
     }
 }

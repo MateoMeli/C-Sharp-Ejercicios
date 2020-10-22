@@ -10,7 +10,7 @@ namespace CentralitaHerencia
     {
         protected float costo;
 
-        public float CostoLlamada
+        public override float CostoLlamada
         {
             get
             {

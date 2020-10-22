@@ -24,7 +24,7 @@ namespace CentralitaHerencia
             this.franjaHoraria = miFranja;
         }
 
-        public float CostoLlamada
+        public override float CostoLlamada
         {
             get
             {
@@ -44,6 +44,14 @@ namespace CentralitaHerencia
                     return (0.66f * this.Duracion);
             }
             return 0f;
+        }
+
+        public override string Mostrar()
+        {
+            StringBuilder mensaje = new StringBuilder();
+            mensaje.AppendLine(base.Mostrar());
+            mensaje.AppendLine($"La llamada es provincial y su costo es {this.CostoLlamada}.");
+            return mensaje.ToString();
         }
     }
 }
