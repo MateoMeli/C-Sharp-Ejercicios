@@ -44,7 +44,7 @@ namespace CentralitaHerencia
             this.nroOrigen = nroOrigen;
         }
 
-        public virtual string Mostrar()
+        protected virtual string Mostrar()
         {
             StringBuilder mensaje = new StringBuilder();
             mensaje.Append($"La llamada duro {this.Duracion} y fue de {this.NroDestino} a {this.NroOrigen}.");
@@ -57,6 +57,10 @@ namespace CentralitaHerencia
             {
                 return 1;
             }
+            else if(llamada1.Duracion < llamada2.Duracion)
+            {
+                return -1;
+            }
             else
             {
                 return 0;
@@ -65,7 +69,13 @@ namespace CentralitaHerencia
 
         public static bool operator == (Llamada l1, Llamada l2)
         {
-            
+            return (l1.Equals(l2) && l1.NroDestino == l2.NroDestino && l1.NroOrigen == l2.NroOrigen);
         }
+        public static bool operator !=(Llamada l1, Llamada l2)
+        {
+            return !(l1 == l2);
+        }
+
+        
     }
 }

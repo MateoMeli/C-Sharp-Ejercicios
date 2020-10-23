@@ -46,12 +46,28 @@ namespace CentralitaHerencia
             return 0f;
         }
 
-        public override string Mostrar()
+        protected override string Mostrar()
         {
             StringBuilder mensaje = new StringBuilder();
             mensaje.AppendLine(base.Mostrar());
             mensaje.AppendLine($"La llamada es provincial y su costo es {this.CostoLlamada}.");
             return mensaje.ToString();
+        }
+        public override string ToString()
+        {
+            return this.Mostrar();
+        }
+
+        public override bool Equals(object obj)
+        {
+            if (obj is Provincial)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
         }
     }
 }
