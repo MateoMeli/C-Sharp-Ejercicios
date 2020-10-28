@@ -1,0 +1,7 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Execpciones\Excepciones\bin\Release\Excepciones.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Execpciones\Excepciones\bin\Release\Excepciones.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Execpciones\Excepciones\bin\Release\Excepciones.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Execpciones\Excepciones\obj\Release\Excepciones.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Execpciones\Excepciones\obj\Release\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Execpciones\Excepciones\obj\Release\Excepciones.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Execpciones\Excepciones\obj\Release\Excepciones.pdb

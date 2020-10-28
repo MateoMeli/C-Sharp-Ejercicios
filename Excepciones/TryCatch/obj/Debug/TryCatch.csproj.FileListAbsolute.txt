@@ -1,7 +1,0 @@
-C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Excepciones\TryCatch\bin\Debug\TryCatch.exe.config
-C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Excepciones\TryCatch\bin\Debug\TryCatch.exe
-C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Excepciones\TryCatch\bin\Debug\TryCatch.pdb
-C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Excepciones\TryCatch\obj\Debug\TryCatch.csprojAssemblyReference.cache
-C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Excepciones\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
-C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Excepciones\TryCatch\obj\Debug\TryCatch.exe
-C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Excepciones\TryCatch\obj\Debug\TryCatch.pdb

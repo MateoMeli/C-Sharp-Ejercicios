@@ -1,0 +1,6 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\FileManager\bin\Debug\FileManager.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\FileManager\bin\Debug\FileManager.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\FileManager\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\FileManager\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\FileManager\obj\Debug\FileManager.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\FileManager\obj\Debug\FileManager.pdb

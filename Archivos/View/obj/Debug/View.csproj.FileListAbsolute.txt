@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\bin\Debug\View.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\bin\Debug\View.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\bin\Debug\View.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\bin\Debug\FileManager.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\bin\Debug\FileManager.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\obj\Debug\View.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Archivos\View\obj\Debug\View.pdb
