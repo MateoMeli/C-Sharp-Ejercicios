@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\MetodosDeExtension\MetodoExtension\bin\Debug\MetodoExtension.exe.config
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\MetodosDeExtension\MetodoExtension\bin\Debug\MetodoExtension.exe
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\MetodosDeExtension\MetodoExtension\bin\Debug\MetodoExtension.pdb
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\MetodosDeExtension\MetodoExtension\obj\Debug\MetodoExtension.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\MetodosDeExtension\MetodoExtension\obj\Debug\MetodoExtension.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\MetodosDeExtension\MetodoExtension\obj\Debug\MetodoExtension.exe
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\MetodosDeExtension\MetodoExtension\obj\Debug\MetodoExtension.pdb
