@@ -13,18 +13,20 @@ namespace View
         {
             try
             {
+                List<Persona> personas = new List<Persona>();
+                Persona persona = new Persona("Fede", "Davila", new DateTime(1984, 03, 14));
+                Persona persona2 = new Persona("Mauricio", "Cerizza", new DateTime(1984, 03, 14));
+                Serializador<List<Persona>> serializador = new Serializador<List<Persona>>();
 
-                string texto = "Hola mundo!";
-                string nombreArchivo = "clase_19";
-                string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+                personas.Add(persona);
+                personas.Add(persona2);
 
-                FileManager archivo = new FileManager();
-                archivo.EscribirArchivoTexto(ruta, nombreArchivo, texto, false);
-                archivo.EscribirArchivoTexto(ruta, nombreArchivo, "Chau mundo!", true);
+                serializador.Serializar(personas, "Profes.xml");
 
-                Console.WriteLine(archivo.LeerArchivoTexto(ruta, nombreArchivo));
-
+                List<Persona> personas2 = new List<Persona>();
+                personas2 = serializador.Deserializar("Profes.xml");
                 
+
             }
             catch(Exception ex)
             {
@@ -33,4 +35,14 @@ namespace View
             Console.ReadKey();
         }
     }
+                   /*
+                string texto = "Hola mundo!";
+                string nombreArchivo = "clase_19";
+                string ruta = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+
+                FileManager archivo = new FileManager();
+                archivo.EscribirArchivoTexto(ruta, nombreArchivo, texto, false);
+                archivo.EscribirArchivoTexto(ruta, nombreArchivo, "Chau mundo!", true);
+
+                Console.WriteLine(archivo.LeerArchivoTexto(ruta, nombreArchivo));*/
 }
