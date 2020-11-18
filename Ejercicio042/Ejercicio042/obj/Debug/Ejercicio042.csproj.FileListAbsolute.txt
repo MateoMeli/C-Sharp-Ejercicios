@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\bin\Debug\Ejercicio042.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\bin\Debug\Ejercicio042.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\bin\Debug\Ejercicio042.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\bin\Debug\Clases.dll
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\bin\Debug\Clases.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\obj\Debug\Ejercicio042.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\obj\Debug\Ejercicio042.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\obj\Debug\Ejercicio042.csproj.CopyComplete
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\obj\Debug\Ejercicio042.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio042\Ejercicio042\obj\Debug\Ejercicio042.pdb
