@@ -25,7 +25,7 @@ namespace WindowsFormsApp1
             this.partido.AvisoGol += ActualizarMarcador;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void Button1_Click(object sender, EventArgs e)
         {
             this.hilo = new Thread(this.partido.JugarPartido);
             this.hilo.Start();
