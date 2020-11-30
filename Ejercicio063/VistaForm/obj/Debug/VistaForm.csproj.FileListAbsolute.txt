@@ -1,0 +1,10 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\bin\Debug\VistaForm.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\bin\Debug\VistaForm.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\bin\Debug\VistaForm.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\obj\Debug\VistaForm.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\obj\Debug\VistaForm.Form1.resources
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\obj\Debug\VistaForm.Properties.Resources.resources
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\obj\Debug\VistaForm.csproj.GenerateResource.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\obj\Debug\VistaForm.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\obj\Debug\VistaForm.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Ejercicio063\VistaForm\obj\Debug\VistaForm.pdb
