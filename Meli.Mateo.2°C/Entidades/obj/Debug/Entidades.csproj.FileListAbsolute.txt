@@ -10,3 +10,9 @@ C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\En
 C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\Entidades.dll
 C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\bin\Debug\Entidades.dll
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\Entidades.dll
+C:\Users\Lenovo\Desktop\Mateo\C-Sharp-Ejercicios\Meli.Mateo.2°C\Entidades\obj\Debug\Entidades.pdb
