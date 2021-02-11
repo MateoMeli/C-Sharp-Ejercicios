@@ -1,0 +1,7 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Ejercicio001\Ejercicio001\bin\Debug\Ejercicio001.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Ejercicio001\Ejercicio001\bin\Debug\Ejercicio001.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Ejercicio001\Ejercicio001\bin\Debug\Ejercicio001.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Ejercicio001\Ejercicio001\obj\Debug\Ejercicio001.csprojAssemblyReference.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Ejercicio001\Ejercicio001\obj\Debug\Ejercicio001.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Ejercicio001\Ejercicio001\obj\Debug\Ejercicio001.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Ejercicio001\Ejercicio001\obj\Debug\Ejercicio001.pdb
