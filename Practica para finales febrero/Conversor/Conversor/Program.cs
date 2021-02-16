@@ -17,6 +17,10 @@ namespace Conversor
 
             Console.WriteLine(numbin - numdeci);
 
+            Console.WriteLine(numdeci + numbin);
+
+            Console.WriteLine(numdeci - numbin);
+
             Console.WriteLine();
             Console.ReadKey();
         }

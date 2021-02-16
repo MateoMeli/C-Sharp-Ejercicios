@@ -14,7 +14,26 @@ namespace Conversor
         {
             this.numero = numero;
         }
+        
+        public static int operator +(NumeroDecimal deci, NumeroBinario binario)
+        {
+            return deci.numero + Transformador.BinarioDecimal(binario.numero);
+        }
 
+        public static int operator -(NumeroDecimal deci, NumeroBinario binario)
+        {
+            return deci.numero - Transformador.BinarioDecimal(binario.numero);
+        }
+
+        public static bool operator ==(NumeroDecimal deci, NumeroBinario binario)
+        {
+            return binario == deci;
+        }
+
+        public static bool operator !=(NumeroDecimal deci, NumeroBinario binario)
+        {
+            return !(deci == binario);
+        }
 
     }
 }
