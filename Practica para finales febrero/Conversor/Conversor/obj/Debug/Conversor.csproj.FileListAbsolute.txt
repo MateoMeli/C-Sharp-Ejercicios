@@ -1,0 +1,7 @@
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Conversor\Conversor\bin\Debug\Conversor.exe.config
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Conversor\Conversor\bin\Debug\Conversor.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Conversor\Conversor\bin\Debug\Conversor.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Conversor\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Conversor\Conversor\obj\Debug\Conversor.exe
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Conversor\Conversor\obj\Debug\Conversor.pdb
+C:\Users\RYZEN\Desktop\C-Sharp-Ejercicios\Practica para finales febrero\Conversor\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
