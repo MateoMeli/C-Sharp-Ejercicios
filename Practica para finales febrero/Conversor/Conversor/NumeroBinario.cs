@@ -37,5 +37,15 @@ namespace Conversor
         {
             return !(binario == deci);
         }
+
+        public static implicit operator NumeroDecimal(NumeroBinario bina)
+        {
+            return new NumeroDecimal(Transformador.BinarioDecimal(bina.numero));
+        }
+
+        public static explicit operator int(NumeroBinario bina)
+        {
+            return Transformador.BinarioDecimal(bina.numero);
+        }
     }
 }

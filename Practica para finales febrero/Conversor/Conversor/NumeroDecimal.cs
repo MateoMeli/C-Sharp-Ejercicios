@@ -35,5 +35,14 @@ namespace Conversor
             return !(deci == binario);
         }
 
+        public static implicit operator NumeroBinario(NumeroDecimal deci)
+        {
+            return new NumeroBinario(Transformador.DecimalBinario(deci.numero));
+        }
+
+        public static explicit operator string(NumeroDecimal deci)
+        {
+            return Transformador.DecimalBinario(deci.numero);
+        }
     }
 }
