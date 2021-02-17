@@ -33,6 +33,10 @@ namespace ConversorForm
             this.buttonDeciABin = new System.Windows.Forms.Button();
             this.labelBinADeci = new System.Windows.Forms.Label();
             this.labelDeciABin = new System.Windows.Forms.Label();
+            this.textBinADeci = new System.Windows.Forms.TextBox();
+            this.textBoxDeciABin = new System.Windows.Forms.TextBox();
+            this.textBoxResultadoBinADeci = new System.Windows.Forms.TextBox();
+            this.textBoxResultadoDeciABin = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // buttonBinADeci
@@ -44,16 +48,18 @@ namespace ConversorForm
             this.buttonBinADeci.TabIndex = 0;
             this.buttonBinADeci.Text = "--->";
             this.buttonBinADeci.UseVisualStyleBackColor = true;
+            this.buttonBinADeci.Click += new System.EventHandler(this.buttonBinADeci_Click);
             // 
             // buttonDeciABin
             // 
             this.buttonDeciABin.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.buttonDeciABin.Location = new System.Drawing.Point(365, 133);
+            this.buttonDeciABin.Location = new System.Drawing.Point(365, 124);
             this.buttonDeciABin.Name = "buttonDeciABin";
             this.buttonDeciABin.Size = new System.Drawing.Size(117, 32);
             this.buttonDeciABin.TabIndex = 1;
             this.buttonDeciABin.Text = "--->";
             this.buttonDeciABin.UseVisualStyleBackColor = true;
+            this.buttonDeciABin.Click += new System.EventHandler(this.buttonDeciABin_Click);
             // 
             // labelBinADeci
             // 
@@ -73,11 +79,49 @@ namespace ConversorForm
             this.labelDeciABin.TabIndex = 3;
             this.labelDeciABin.Text = "Decimal a Binario";
             // 
+            // textBinADeci
+            // 
+            this.textBinADeci.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBinADeci.Location = new System.Drawing.Point(188, 72);
+            this.textBinADeci.Name = "textBinADeci";
+            this.textBinADeci.Size = new System.Drawing.Size(125, 30);
+            this.textBinADeci.TabIndex = 4;
+            // 
+            // textBoxDeciABin
+            // 
+            this.textBoxDeciABin.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxDeciABin.Location = new System.Drawing.Point(188, 126);
+            this.textBoxDeciABin.Name = "textBoxDeciABin";
+            this.textBoxDeciABin.Size = new System.Drawing.Size(125, 30);
+            this.textBoxDeciABin.TabIndex = 5;
+            // 
+            // textBoxResultadoBinADeci
+            // 
+            this.textBoxResultadoBinADeci.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxResultadoBinADeci.Location = new System.Drawing.Point(551, 74);
+            this.textBoxResultadoBinADeci.Name = "textBoxResultadoBinADeci";
+            this.textBoxResultadoBinADeci.ReadOnly = true;
+            this.textBoxResultadoBinADeci.Size = new System.Drawing.Size(131, 30);
+            this.textBoxResultadoBinADeci.TabIndex = 6;
+            // 
+            // textBoxResultadoDeciABin
+            // 
+            this.textBoxResultadoDeciABin.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.textBoxResultadoDeciABin.Location = new System.Drawing.Point(551, 124);
+            this.textBoxResultadoDeciABin.Name = "textBoxResultadoDeciABin";
+            this.textBoxResultadoDeciABin.ReadOnly = true;
+            this.textBoxResultadoDeciABin.Size = new System.Drawing.Size(131, 30);
+            this.textBoxResultadoDeciABin.TabIndex = 7;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(791, 207);
+            this.Controls.Add(this.textBoxResultadoDeciABin);
+            this.Controls.Add(this.textBoxResultadoBinADeci);
+            this.Controls.Add(this.textBoxDeciABin);
+            this.Controls.Add(this.textBinADeci);
             this.Controls.Add(this.labelDeciABin);
             this.Controls.Add(this.labelBinADeci);
             this.Controls.Add(this.buttonDeciABin);
@@ -87,6 +131,7 @@ namespace ConversorForm
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Conversor Numerico";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -96,6 +141,10 @@ namespace ConversorForm
         private System.Windows.Forms.Button buttonDeciABin;
         private System.Windows.Forms.Label labelBinADeci;
         private System.Windows.Forms.Label labelDeciABin;
+        private System.Windows.Forms.TextBox textBinADeci;
+        private System.Windows.Forms.TextBox textBoxDeciABin;
+        private System.Windows.Forms.TextBox textBoxResultadoBinADeci;
+        private System.Windows.Forms.TextBox textBoxResultadoDeciABin;
     }
 }
 
